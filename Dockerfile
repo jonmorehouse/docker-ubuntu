@@ -8,7 +8,8 @@ RUN DEBIAN_FRONTEND=noninteractive
 RUN apt-get install -y make \
 	gcc \
 	git \
-	curl 
-
+	curl \
+	python-software-properties \
+	python \
 
 
