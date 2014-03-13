@@ -11,6 +11,7 @@ RUN apt-get install -y make \
 	curl \
 	python-software-properties \
 	python \
-	zsh 
+	zsh \
+	cgroup-lite
 
 
