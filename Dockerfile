@@ -12,6 +12,7 @@ RUN apt-get install -y make \
 	python-software-properties \
 	python \
 	zsh \
-	cgroup-lite
+	cgroup-lite \
+	g++ 
 
 
